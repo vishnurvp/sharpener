@@ -7,3 +7,6 @@ by the end i have to get the commit id.
 git commit id?
 
 let's create a new branch
+
+this file is createad in my Laptop
+changed this file in my other windows PC
