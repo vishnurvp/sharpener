@@ -8,5 +8,7 @@ git commit id?
 
 let's create a new branch
 
-this file is createad in my Laptop
+this file is originaly createad in my Laptop
 changed this file in my other windows PC
+
+testing git from multiple computers
